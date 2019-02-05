@@ -6,14 +6,12 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <meta charset="UTF-8">
+        <meta charset="windows-1252">
         <title></title>
     </head>
     <body>
         <?php
         // put your code here
         ?>
-        <h1> Hello - sebs world </h1>
-        
     </body>
 </html>
